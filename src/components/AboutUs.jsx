@@ -3,7 +3,7 @@ export default function AboutUs() {
   return (
     <main className="content-page about-page">
       <p className="eyebrow">OUR ROOTS, OUR PURPOSE</p>
-      <h1>Good things grow here.</h1>
+      <h1>Welcome to Paradise Nursery</h1>
       <p className="lead">Paradise Nursery helps you bring the calm and beauty of nature into everyday life.</p>
       <div className="about-grid">
         <div className="about-image" role="img" aria-label="Sunlight falling across a collection of green houseplants" />
